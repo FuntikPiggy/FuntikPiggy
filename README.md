@@ -31,24 +31,24 @@ for stack_item in stack:
     print(stack_item, end=' ')
 ```
 <!-- ## Стек технологий:-->
-> <a href="https://www.python.org/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" /></a>
-<a href="https://www.djangoproject.com/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" /></a>
-<a href="https://www.django-rest-framework.org/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="DjangoRestFramework" /></a>
-<a href="https://flask.palletsprojects.com/en/stable/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" /></a>
-<a href="https://docs.pytest.org/en/stable/index.html"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" /></a>
-<a href="https://www.openapis.org/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" title="OpenApi" /></a>
-<a href="https://swagger.io/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" /></a>
-<a href="https://code.visualstudio.com/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" /></a>
-<a href="https://www.sqlite.org/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" /></a>
-<a href="https://www.postgresql.org/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></a>
-<a href="https://dbeaver.io/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="DBeaver" /></a>
-<a href="https://nginx.org/ru/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" /></a>
-<a href="https://www.postman.com/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" /></a>
-<a href="https://git-scm.com/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" /></a>
-<a href="https://github.com/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" /></a>
-<a href="https://docs.github.com/en/actions"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHubActions" /></a>
-<a href="https://www.docker.com/"><img width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
+> <a href="https://www.python.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" /></a>
+<a href="https://www.djangoproject.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" /></a>
+<a href="https://www.django-rest-framework.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" title="DjangoRestFramework" /></a>
+<a href="https://flask.palletsprojects.com/en/stable/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" /></a>
+<a href="https://docs.pytest.org/en/stable/index.html"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" /></a>
+<a href="https://www.openapis.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" title="OpenApi" /></a>
+<a href="https://swagger.io/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" /></a>
+<a href="https://code.visualstudio.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" /></a>
+<a href="https://www.sqlite.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" /></a>
+<a href="https://www.postgresql.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></a>
+<a href="https://dbeaver.io/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="DBeaver" /></a>
+<a href="https://nginx.org/ru/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" /></a>
+<a href="https://www.postman.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" /></a>
+<a href="https://git-scm.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" /></a>
+<a href="https://github.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" /></a>
+<a href="https://docs.github.com/en/actions"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHubActions" /></a>
+<a href="https://www.docker.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
           
 
 ```python
