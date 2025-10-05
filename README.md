@@ -59,11 +59,11 @@ for stack_item in stack:
 ```python
 print(*contacts)
 ```
-> <a href="https://t.me/CallSign_Yakuza"><img width=48 src="https://github.com/user-attachments/assets/a6d8481c-f025-425d-ac3d-98966f58abc2" title="Telegram" /></a>
-<a href="https://vk.com/no_rear_gear"><img width=48 src="https://github.com/user-attachments/assets/22c23a8e-835a-4ff1-9e64-453d1801a776" title="VK" /></a>
-<a href="https://stepik.org/users/915077024/profile"><img width=48 src="https://github.com/user-attachments/assets/be4f3287-9149-40e1-94b7-0386078d825f" title="Stepik" /></a>
-<a href="https://www.linkedin.com/in/valeriy-gurin"><img width=48 src="https://github.com/user-attachments/assets/ed518bda-fd07-4700-9e6d-81d26820a34d" title="LinkedIn" /></a>
-<a href="https://habr.com/ru/users/FuntikPiggy/"><img width=48 src="https://github.com/user-attachments/assets/14ec4512-5d4b-48ff-82e7-96ac18c1965b" title="Habr" /></a>
+> <a href="https://t.me/CallSign_Yakuza"><img width=48 src="https://github.com/user-attachments/assets/b73afe53-6451-4129-a351-3510a188f6b4" title="Telegram" /></a>
+<a href="https://vk.com/no_rear_gear"><img width=48 src="https://github.com/user-attachments/assets/2be468b6-a495-4c62-8a08-72b79616825b" title="VK" /></a>
+<a href="https://stepik.org/users/915077024/profile"><img width=48 src="https://github.com/user-attachments/assets/22806633-183b-4851-9d24-fe1cf14b9bf3" title="Stepik" /></a>
+<a href="https://www.linkedin.com/in/valeriy-gurin"><img width=48 src="https://github.com/user-attachments/assets/0854c662-bb1e-4e20-93ff-c86b1fb08f3b" title="LinkedIn" /></a>
+<a href="https://habr.com/ru/users/FuntikPiggy/"><img width=48 src="https://github.com/user-attachments/assets/e567d5b9-41d8-45c0-a7b0-c282fb2dbd10" title="Habr" /></a>
 
 <!--
 **FuntikPiggy/FuntikPiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
