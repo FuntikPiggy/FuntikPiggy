@@ -1,8 +1,4 @@
-<img width="1716" height="338" alt="main__02" src="https://github.com/user-attachments/assets/d682b674-2668-415a-b9fd-209407f7d3fa" />
-
-
-
-
+<img width="1716" height="338" alt="main__03" src="https://github.com/user-attachments/assets/d431dce1-6b67-4f88-990c-d0f6c8e9dbc6" />
 
 <!-- ## Обо мне и о том, как я пришёл к программированию:-->
 ```python
