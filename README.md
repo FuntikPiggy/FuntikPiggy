@@ -1,3 +1,8 @@
+<img width="1716" height="338" alt="main__01" src="https://github.com/user-attachments/assets/28c32b4f-45d3-445c-ab92-e59d853f4374" />
+
+
+
+
 <!-- ## Обо мне и о том, как я пришёл к программированию:-->
 ```python
 print(about_me_and_my_path_of_becoming_a_programmer) 
