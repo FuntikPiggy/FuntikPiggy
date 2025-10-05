@@ -42,7 +42,7 @@ for stack_item in stack:
 <a href="https://flask.palletsprojects.com/en/stable/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" /></a>
 <a href="https://docs.pytest.org/en/stable/index.html"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" /></a>
 <a href="https://www.openapis.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" title="OpenApi" /></a>
-<a href="https://swagger.io/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="Swagger" /></a>
+<a href="https://swagger.io/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain.svg" title="Swagger" /></a>
 <a href="https://www.jetbrains.com/pycharm/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" /></a>
 <a href="https://code.visualstudio.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" /></a>
 <a href="https://www.sqlite.org/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" /></a>
@@ -56,6 +56,7 @@ for stack_item in stack:
 <a href="https://www.docker.com/"><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
           
 
+          
 ```python
 print(*contacts)
 ```
