@@ -2,8 +2,10 @@
 
 <!-- ## Обо мне и о том, как я пришёл к программированию:-->
 ```python
-print(about_me_and_my_path_of_becoming_a_programmer) 
+print(ABOUT, about_me_and_my_path_of_becoming_a_programmer, sep=':\n') 
 ```
+> ## Немного обо мне:<img align="right" src="https://komarev.com/ghpvc/?username=FuntikPiggy&color=949c81"/>
+>
 > Привет! Рад видеть тебя в моём репозитории!
 > 
 > Меня зовут **Гурин Валерий** и я пока ещё только начинающий backend-разработчик, 
@@ -29,10 +31,13 @@ print(about_me_and_my_path_of_becoming_a_programmer)
 
 
 ```python
+print(STACK, ':', sep='')
 for stack_item in stack:
     print(stack_item, end=' ')
 ```
 <!-- ## Стек технологий:-->
+> ## Стек технологий:
+> 
 > <a href="https://www.python.org/"><img width=40 src="https://github.com/user-attachments/assets/4f22b4a9-2d1e-42c6-a971-4a5968f507d8" title="Python" /></a>
 <a href="https://www.djangoproject.com/"><img width=40 src="https://github.com/user-attachments/assets/6df2b9c0-cd52-41d4-9055-99a954fbabeb" title="Django" /></a>
 <a href="https://www.django-rest-framework.org/"><img width=40 src="https://github.com/user-attachments/assets/df8f3767-722e-4732-91c6-552497ec1e30" title="DjangoRestFramework" /></a>
@@ -54,13 +59,28 @@ for stack_item in stack:
 
 
 ```python
-print(*contacts)
+print(MY_CONTACTS, ':\n', *contacts)
 ```
+> ## Мои контакты:
+> 
 > <a href="https://t.me/CallSign_Yakuza"><img width=48 src="https://github.com/user-attachments/assets/18167c70-6ead-44d3-93fa-29856954dced" title="Telegram" /></a>
 <a href="https://vk.com/no_rear_gear"><img width=48 src="https://github.com/user-attachments/assets/684b6475-b8b7-4dca-936f-5565424a1b74" title="VK" /></a>
 <a href="https://stepik.org/users/915077024/profile"><img width=48 src="https://github.com/user-attachments/assets/b33ad58d-f30e-41d4-9c11-d40ca94c8fbd" title="Stepik" /></a>
 <a href="https://www.linkedin.com/in/valeriy-gurin"><img width=48 src="https://github.com/user-attachments/assets/b19e7391-39ad-40f0-a5d7-1e802fa95058" title="LinkedIn" /></a>
 <a href="https://habr.com/ru/users/FuntikPiggy/"><img width=48 src="https://github.com/user-attachments/assets/298501c1-d04e-4f40-b2f4-002f1a2a3828" title="Habr" /></a>
+
+
+```python
+def get_deployed(projects):
+    return [project for project in projects if project.status is 'deployed']
+
+print(f'{DEPLOYED}:')
+print(*get_deployed(my_projects), sep=' ● ')
+```
+
+> ## Проекты в деплое:
+> ### [ПищеБлог](https://pisheblog.sytes.net) ● [Кот в сети](https://cat-online.sytes.net)
+
 
 
 <!--
