@@ -31,7 +31,7 @@ print(ABOUT, about_me_and_my_path_of_becoming_a_programmer, sep=':\n')
 
 
 ```python
-print(STACK, ':', sep='')
+print(STACK, ':')
 for stack_item in stack:
     print(stack_item, end=' ')
 ```
