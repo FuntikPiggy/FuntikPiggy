@@ -66,7 +66,7 @@ print(MY_CONTACTS, ':\n', *contacts)
 > <a href="https://t.me/FuntikPiggy"><img width=48 src="https://github.com/user-attachments/assets/18167c70-6ead-44d3-93fa-29856954dced" title="Telegram" /></a>
 <a href="https://vk.com/FuntikPiggy"><img width=48 src="https://github.com/user-attachments/assets/684b6475-b8b7-4dca-936f-5565424a1b74" title="VK" /></a>
 <a href="https://stepik.org/users/915077024/profile"><img width=48 src="https://github.com/user-attachments/assets/b33ad58d-f30e-41d4-9c11-d40ca94c8fbd" title="Stepik" /></a>
-<a href="www.linkedin.com/in/funtikpiggy"><img width=48 src="https://github.com/user-attachments/assets/b19e7391-39ad-40f0-a5d7-1e802fa95058" title="LinkedIn" /></a>
+<a href="https://linkedin.com/in/funtikpiggy"><img width=48 src="https://github.com/user-attachments/assets/b19e7391-39ad-40f0-a5d7-1e802fa95058" title="LinkedIn" /></a>
 <a href="https://habr.com/ru/users/FuntikPiggy/"><img width=48 src="https://github.com/user-attachments/assets/298501c1-d04e-4f40-b2f4-002f1a2a3828" title="Habr" /></a>
 
 
